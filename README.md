@@ -108,7 +108,3 @@ To report issues or suggest improvements:
 1. Check that the issue hasn't been reported previously
 2. Create an issue describing the problem or improvement
 3. If it's a correction, ensure it complies with the BIP39 standard
-
----
-
-*Last updated: August 2025*
