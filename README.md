@@ -48,7 +48,7 @@ Each file contains a JSON array with exactly 2048 unique words:
     "able",
     "about",
     "above",
-    ...
+    "......"
 ]
 ```
 
